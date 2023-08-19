@@ -1,0 +1,37 @@
+{
+    "question": [
+    "1. The southernmost point of peninsular India, that is, Kanyakumari, is..?",
+    "2. The principal copper deposits of India lie in which of the following places?",
+    "3. The only zone in the country that produces gold is also rich in iron is?",
+    "4. Which is the capitaal of India?"
+    ],
+    "answer": [
+    4,
+    1,
+    3,
+    3
+    ],
+    "options": [
+    ["north of Tropic of Cancer",
+    "south of the Equator",
+    "south of the Capricorn",
+    "north of the Equator"
+    ],
+    ["Hazaribag and Singbhum of Bihar",
+    "Khetri and Daribo areas of Rajasthan",
+    "Anantapur in Andhra Pradesh",
+    "Siwaliks in Uttar Pradesh and in Karnataka"
+    ],
+    [
+       " North-eastern zone",
+        "North-western zone",
+        "Southern zone",
+        "None of the above"
+    ],
+    ["Agra",
+        "Amritasar",
+        "Delhi",
+        "Mumbai"
+    ]
+    ]
+}
